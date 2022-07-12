@@ -14,7 +14,7 @@ All of the projects listed below is programmed by C with graphics.h library.
 
 This project realizes the line segment scanning algorithm and line width processing method, and is used to draw lines and ellipses. Click the mouse to view the real-time operation of the algorithm.
 
-![Line Segment Scanning Algorithms](:UN_2_CG/project1.gif){:data-align="center"}
+![Line Segment Scanning Algorithms](https://github.com/Jingxiang-Zhang/Computer-Graphics/tree/main/img/project1.gif){:data-align="center"}
 
 ***
 
@@ -22,7 +22,7 @@ This project realizes the line segment scanning algorithm and line width process
 
 This project show the Sutherland-Hodgman polygon clipping algorithm. By selecting the original graphics in top left corner, the top right shows the result of the first clipping result, the bottom left shows the result of the second clipping result, and the bottom right shows the final result by dealing with degradation of edges.
 
-![Craphics Clipping Algorithm](:UN_2_CG/project2.gif){:data-align="center"}
+![Craphics Clipping Algorithm](https://github.com/Jingxiang-Zhang/Computer-Graphics/tree/main/img/project2.gif){:data-align="center"){:data-align="center"}
 
 
 ***
@@ -37,7 +37,7 @@ The project can be operated by mouth. It has functions as follow:
 - Rotate the graphics by pressing Shift key and mouse wheel
 - Make the graphics symmetry by left click to draw a line, and right double click the graph
 
-![Craphics Clipping Algorithm](:UN_2_CG/project3.gif){:data-align="center"}
+![Craphics Clipping Algorithm](https://github.com/Jingxiang-Zhang/Computer-Graphics/tree/main/img/project3.gif){:data-align="center"){:data-align="center"}
 
 ***
 
@@ -52,7 +52,7 @@ This project realizes the projection and blanking of 3D graphic, and it can:
   - Click the right mouse button for X-axis and Y-axis perspective 
   - Click the middle mouse button for X-axis,Y-axis and Z-axis perspective 
 
-![Craphics Clipping Algorithm](:UN_2_CG/project4.gif){:data-align="center"}
+![Craphics Clipping Algorithm](https://github.com/Jingxiang-Zhang/Computer-Graphics/tree/main/img/project4.gif){:data-align="center"){:data-align="center"}
 
 ***
 
@@ -63,7 +63,7 @@ This project realizes the curve drawing algorithm. It can draw the curve by poin
 - Bezier curve
 - B spline curve
 
-![Craphics Clipping Algorithm](:UN_2_CG/project5.gif){:data-align="center"}
+![Craphics Clipping Algorithm](https://github.com/Jingxiang-Zhang/Computer-Graphics/tree/main/img/project5.gif){:data-align="center"){:data-align="center"}
 
 
 
