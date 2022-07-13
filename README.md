@@ -20,7 +20,9 @@ This project realizes the line segment scanning algorithm and line width process
 
 This project show the Sutherland-Hodgman polygon clipping algorithm. By selecting the original graphics in top left corner, the top right shows the result of the first clipping result, the bottom left shows the result of the second clipping result, and the bottom right shows the final result by dealing with degradation of edges.
 
-
+<div align="center">
+  <img src="https://github.com/Jingxiang-Zhang/Computer-Graphics/blob/main/img/project2.gif">
+</div>
 
 ***
 
@@ -34,6 +36,9 @@ The project can be operated by mouth. It has functions as follow:
 - Rotate the graphics by pressing Shift key and mouse wheel
 - Make the graphics symmetry by left click to draw a line, and right double click the graph
 
+<div align="center">
+  <img src="https://github.com/Jingxiang-Zhang/Computer-Graphics/blob/main/img/project3.gif">
+</div>
 
 ***
 
@@ -48,6 +53,9 @@ This project realizes the projection and blanking of 3D graphic, and it can:
   - Click the right mouse button for X-axis and Y-axis perspective 
   - Click the middle mouse button for X-axis,Y-axis and Z-axis perspective 
 
+<div align="center">
+  <img src="https://github.com/Jingxiang-Zhang/Computer-Graphics/blob/main/img/project4.gif">
+</div>
 
 ***
 
@@ -58,5 +66,7 @@ This project realizes the curve drawing algorithm. It can draw the curve by poin
 - Bezier curve
 - B spline curve
 
-
+<div align="center">
+  <img src="https://github.com/Jingxiang-Zhang/Computer-Graphics/blob/main/img/project5.gif">
+</div>
 
