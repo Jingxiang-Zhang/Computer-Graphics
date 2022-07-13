@@ -9,6 +9,10 @@ These projects were completed in my sophomore computer graphics course.  The ori
 
 This project realizes the line segment scanning algorithm and line width processing method, and is used to draw lines and ellipses. Click the mouse to view the real-time operation of the algorithm.
 
+<div align="center">
+  <img src="https://github.com/Jingxiang-Zhang/Computer-Graphics/blob/main/img/project1.gif">
+</div>
+
 
 ***
 
